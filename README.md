@@ -3,6 +3,9 @@ Self-collected, Multi-Floor, Public Datasets
 
 # Introduction
 
+Y. Wang, G. Zhou, C. Xiang, S. Zhang and S. Xu. Two-Stage Joint Visual and Wireless Feature based Mechanism for Multi-Floor Indoor Localization, Submitted to IEEE Communications Letters.
+
+  In order to better introduce the experimental environment of this letter, we open source the dataset.
 
 
 <img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/Environment.png" width="500" height="600" alt="Environment">
