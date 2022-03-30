@@ -5,9 +5,9 @@ Self-collected, Multi-Floor, Public Datasets
 
 *Y. Wang, G. Zhou, C. Xiang, S. Zhang, S. Xu, X. Ma, Q. X and H. Y. Two-Stage Joint Visual and Wireless Feature based Mechanism for Multi-Floor Indoor Localization, Submitted to IEEE Communications Letters.*
 
-  In order to better introduce the experimental environment of this letter, we open source the dataset. All data in this dataset are collected by ourselves.
-
-
+  This is the Github repository for the detailed introduction of the experimental environment and data acquisition process of this letter. The main purpose of the repository is to allow easy discussion and the reporting of issues. All data in this dataset are collected by ourselves.
+  
+  
 ## The Scene of Data acquisition
   Our proposed two-stage localization scheme is verified in the corridor environment of a typical office building, which contains four floors with 4000 square meters area for each floor. In this figure, the first line are the layout of a single floor and data acquisition equipment, the following are some examples of image of four floors. In the experimental building with four floors, the 1, 2, 3, floors are used as base floors, the 4 floor is used as novel floor to test.
 
