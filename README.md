@@ -15,6 +15,12 @@ Self-collected, Multi-Floor, Public Datasets
   
 <img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/Environment.png" width="500" height="600" alt="Environment">
 
+More detailed parameter values of our work are listed in the following table. 
+The |The number|set|
+----|----|----|
+The |The number|set|
+
+
 ## Data Acquisition
 
 ### Configuration Sensors
