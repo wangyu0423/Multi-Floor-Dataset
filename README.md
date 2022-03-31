@@ -19,8 +19,11 @@ More detailed parameter values of our work are listed in the following table.
 Parameter |Meaning of Parameters|Value|
 ----|----|----|
 <img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{F}" style="border:none;"> |The number of floors|4|
-<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{RP}" style="border:none;"> |the number of WiFi reference points (RPs)|24|
-<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_\mathbf{A}" style="border:none;"> |the number of consecutive areas in the target floor|15|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{RP}" style="border:none;"> |The number of WiFi reference points (RPs)|24|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{A}" style="border:none;"> |The number of consecutive areas in the target floor|15|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={H}" style="border:none;"> |The pixel of training image (height) |752|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={W}" style="border:none;"> |The pixel of training image (width) |480|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{Q}" style="border:none;"> |The number of test images|500|
 
 ## Data Acquisition
 
