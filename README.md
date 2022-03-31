@@ -34,7 +34,14 @@ Self-collected, Multi-Floor, Public Datasets
   
   <div align=center>
   <img src="http://chart.googleapis.com/chart?cht=tx&chl={\mathbf{DB}}_{W}={(\mathcal{R}(\mathbf{L}_{{RP}}^{i}),\mathbf{L}_{{RP}}^{i},\mathbf{F}_{{RP}}^{i})}" style="border:none;">, 
-  <div>
-  where <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathcal{R}(\mathbf{L}_{{RP}}^{i})" style="border:none;"> denotes the APs measured RSSIs, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{L}_{RP}^{i}" style="border:none;"> denotes APs locations, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{F}_{RP}^{i}" style="border:none;"> denotes the floor index.
+  </div>
   
-  As for the image data acquisition process, the data acquisition equipment (mobile robot) and its own configured camera module are used to take images of the experimental scene, and save the images and its corresponding location coordinates to the database according to a certain format, e.g., <img src="http://chart.googleapis.com/chart?cht=tx&chl={\mathcal{DB}}_{I}={(\mathcal{I}(\mathbf{L}_{I}), \mathbf{L}_{I}, \mathbf{F}_{I})}" style="border:none;">, where <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathcal{I}(\mathbf{L}_{I})" style="border:none;"> denotes currently captured image, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{L}_{I}" style="border:none;"> denotes the image’s location, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{F}_{I}" style="border:none;"> denotes the floor index.  
+where <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathcal{R}(\mathbf{L}_{{RP}}^{i})" style="border:none;"> denotes the APs measured RSSIs, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{L}_{RP}^{i}" style="border:none;"> denotes APs locations, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{F}_{RP}^{i}" style="border:none;"> denotes the floor index.
+  
+  As for the image data acquisition process, the data acquisition equipment (mobile robot) and its own configured camera module are used to take images of the experimental scene, and save the images and its corresponding location coordinates to the database according to a certain format, e.g.,
+  
+  <div align=center>
+  <img src="http://chart.googleapis.com/chart?cht=tx&chl={\mathcal{DB}}_{I}={(\mathcal{I}(\mathbf{L}_{I}), \mathbf{L}_{I}, \mathbf{F}_{I})}" style="border:none;">, 
+  </div>
+  
+  where <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathcal{I}(\mathbf{L}_{I})" style="border:none;"> denotes currently captured image, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{L}_{I}" style="border:none;"> denotes the image’s location, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{F}_{I}" style="border:none;"> denotes the floor index.  
