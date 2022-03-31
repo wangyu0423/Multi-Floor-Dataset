@@ -20,7 +20,7 @@ Parameter |Meaning of Parameters|Value|
 ----|----|----|
 <img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{F}" style="border:none;"> |The number of floors|4|
 <img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{RP}" style="border:none;"> |the number of WiFi reference points (RPs)|24|
-
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_\mathbf{A}" style="border:none;"> |the number of consecutive areas in the target floor|15|
 
 ## Data Acquisition
 
