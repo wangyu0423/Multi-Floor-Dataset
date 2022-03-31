@@ -15,7 +15,7 @@ Self-collected, Multi-Floor, Public Datasets
   
 <img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/Environment.png" width="500" height="600" alt="Environment">
 
-## Data acquisition
+## Data Acquisition
 
 ### Configuration Sensors
   The main configuration sensors of the mobile robot contain IMU module、camera module、WiFi module.
