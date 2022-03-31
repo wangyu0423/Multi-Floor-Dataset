@@ -16,9 +16,10 @@ Self-collected, Multi-Floor, Public Datasets
 <img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/Environment.png" width="500" height="600" alt="Environment">
 
 More detailed parameter values of our work are listed in the following table. 
-The |The number|set|
+Parameter |Meaning of Parameters|Value|
 ----|----|----|
-The |The number|set|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{F}" style="border:none;"> |The number of floors|4|
+<img src="http://chart.googleapis.com/chart?cht=tx&chl={N}_{RP}" style="border:none;"> |the number of WiFi reference points (RPs)|24|
 
 
 ## Data Acquisition
