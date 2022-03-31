@@ -20,11 +20,11 @@ Self-collected, Multi-Floor, Public Datasets
 ### Configuration Sensors
   The main configuration sensors of the mobile robot contain IMU module、camera module、WiFi module.
   
-  >IMU module: Using MEMS-based inertial sensors and extended Kalman filtering algorithm.
+  * IMU module: Providing acceleration, angular velocity and other information.
  
-  >Camera module: Providing clear visual images with a resolution of 752x480/60fps.
+  * Camera module: Providing clear visual images with a resolution of 752x480/60fps.
   
-  >WiFi module: Scaning all the channels to establish connections with the access points automatically, whose working frequency band is 2.4 GHz. 
+  * WiFi module: Scaning all the channels to establish connections with the access points, whose working frequency band is 2.4 GHz. 
 
   In order to obtain the ground truth positions and establish the WiFi fingerprint databases and the image database, we have done the following implementation work. Firstly, according to the mobile robot's installation location, the relative position coordinate of camera and IMU module is obtained. Secondly, the real-time coordinates of the mobile robot on the floor are calculated by constructing a two-dimensional floor map through robot SLAM. Thirdly, multiple cruise points are set on map of SLAM, enabling the robot to complete the task while moving autonomously on the floor corridor. Fourthly, the mobile robot take multiple s-shaped trajectory routes to collect data and several slopes are placed in the corridor to increase the position changes on Z-axis. In order to ensure the user localization accuracy, the mobile robot will collect the wireless signal and image data periodically to keep the WiFi fingerprint databases and the image database updated. The data training process is conducted on a localization server with NVIDIA Titan X GPU with Pytorch platform. Kindly note that when the offline training process is completed, the online localization service will be provided by the indoor localization server.
   
