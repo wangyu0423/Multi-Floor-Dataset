@@ -44,7 +44,7 @@ Parameter |Meaning of Parameters|Value|
   In the WiFi fingerprint acquisition process, the data acquisition equipment (mobile robot) and its own configured WiFi module are used to scan the deployed WiFi APs in the current scene, establish communication with multiple access points (APs), receive the received signal strength indications (RSSIs) values from different APs at the current sampling location, and save the RSSI set and location coordinates to the database according to a certain format, e.g., 
   
   <div align=center>
-  <img src="http://chart.googleapis.com/chart?cht=tx&chl={\mathbf{DB}}_{W}={(\mathcal{R}(\mathbf{L}_{{RP}}^{i}),\mathbf{L}_{{RP}}^{i},\mathbf{F}_{{RP}}^{i})}" style="border:none;">, 
+  <img src="http://chart.googleapis.com/chart?cht=tx&chl={\mathcal{DB}}_{W}={(\mathcal{R}(\mathbf{L}_{{RP}}^{i}),\mathbf{L}_{{RP}}^{i},\mathbf{F}_{{RP}}^{i})}" style="border:none;">, 
   </div>
   
 where <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathcal{R}(\mathbf{L}_{{RP}}^{i})" style="border:none;"> denotes the APs measured RSSIs, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{L}_{RP}^{i}" style="border:none;"> denotes APs locations, <img src="http://chart.googleapis.com/chart?cht=tx&chl=\mathbf{F}_{RP}^{i}" style="border:none;"> denotes the floor index.
