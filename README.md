@@ -13,7 +13,7 @@ Self-collected, Multi-Floor, Public Datasets
 
   As shown in this figure, the layout of each floor is more or less the same with dramatically changing lighting conditions throughout the day. Meanwhile, the WiFi signals are in general unreliable, due to the regular daily activities of working staffs. In the above settings, both the signal feature based localization (SFBL) and the visual based localization (VBL) schemes cannot achieve satisfying localization results, which raises a great challenge for the fusion-based localization schemes. All the experimental results of our work are compared in this challenging scenario.
   
-<img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/Environment.png" width="500" height="600" alt="Environment">
+<img src="https://github.com/wangyu0423/Multi-Floor-Dataset/blob/main/1.pdf" width="500" height="600" alt="Environment">
 
 More detailed parameter values of our work are listed in the following table. 
 Parameter |Meaning of Parameters|Value|
