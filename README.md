@@ -1,5 +1,5 @@
 # Multi-Floor-Dataset
-Self-collected, Multi-Floor, Public Datasets
+Self-Collected, Multi-Floor, Public Datasets
 
 ## Introduction
 
